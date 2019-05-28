@@ -5,3 +5,5 @@
 - la url debe ser:
 - ip:puerto/fechaRest/rest/fechaRest
 - por ejemplo: http://localhost:7003/fechaRest/rest/fechaRest 
+
+- de igual manera, el codigo se encuentra en https://github.com/estebanjpc/fecha-rest.git
