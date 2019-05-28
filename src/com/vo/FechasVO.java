@@ -40,7 +40,4 @@ public class FechasVO {
 	public void setFechasFaltantes(ArrayList<String> fechasFaltantes) {
 		this.fechasFaltantes = fechasFaltantes;
 	}
-
-	
-	
 }
